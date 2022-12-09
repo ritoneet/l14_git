@@ -8,5 +8,5 @@ git status
 git add git_info.txt
 git add --all
 
-4)
+4) сохранение файлов в текущей версии / всегда
 git commit -m "add git_info.txt and main.py"
